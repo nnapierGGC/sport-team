@@ -1,5 +1,5 @@
 /**
- * 
+ * This class represents characteristics of a Sports Team.
  */
 
 /**
